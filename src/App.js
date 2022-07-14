@@ -1,3 +1,7 @@
+import React from "react";
+// import ReactDOM from 'react-dom' --Both works fine(It brings the entire react-dom package)
+import { render } from "react-dom";
+
 const pet = (props) => {
   return React.createElement("div", {}, [
     React.createElement("h1", {}, props.name),
@@ -29,4 +33,4 @@ const App = () => {
   );
 };
 
-ReactDOM.render(React.createElement(App), document.getElementById("root"));
+render(React.createElement(App), document.getElementById("root"));
