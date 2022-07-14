@@ -1,0 +1,20 @@
+{
+  "name": "vanilla-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taheer10/ReactIntroByBrianHolt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taheer10/ReactIntroByBrianHolt/issues"
+  },
+  "homepage": "https://github.com/Taheer10/ReactIntroByBrianHolt#readme"
+}
