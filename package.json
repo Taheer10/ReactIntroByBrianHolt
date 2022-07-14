@@ -1,0 +1,23 @@
+{
+  "name": "vanilla-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "format": "prettier --write \"src/**/*.{js,jsx}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taheer10/ReactIntroByBrianHolt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taheer10/ReactIntroByBrianHolt/issues"
+  },
+  "homepage": "https://github.com/Taheer10/ReactIntroByBrianHolt#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
